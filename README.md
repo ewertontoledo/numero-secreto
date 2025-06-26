@@ -10,4 +10,3 @@ Consiste em um jogo simples onde o usuário tenta adivinhar um número aleatóri
 - HTML  
 - CSS  
 - JavaScript
-
